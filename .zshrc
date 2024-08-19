@@ -1,6 +1,3 @@
-/home/omid/.zshrc
-/home/omid/.zshrc
-/home/omid/.zshrc
 zstyle :compinstall filename '/home/omid/.zshrc'
 
 # alias
